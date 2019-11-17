@@ -1,6 +1,12 @@
 # ceedling-example
 An example using ceedling (http://www.throwtheswitch.org/ceedling) to test a simple project.
 
+This project was created by:
+ * Installing ceedling as described below.
+ * Creating the project using `ceedling new ceedling-example`
+ * Copying the .c and .h files from the [unity-example](https://github.com/cu-ecen-5013/unity-example) project into the src directory.
+ * Copying the test file from the [unity-example test directory](https://github.com/cu-ecen-5013/unity-example/tree/master/test) into the test subfolder, renaming to patch the pattern test_*filename*.c
+
 # Running
 To run from your ubuntu VM:
 ```
